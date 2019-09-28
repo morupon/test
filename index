@@ -1,0 +1,73 @@
+<!DOCTYPE>
+<html>
+ <head>
+ 　<mate charset="ytf-8">
+ 　<title>タブのタイトル</title>
+ 　<link rel="stylesheet" href="styleseet.CSS" type="text/css">
+  </head>
+ <body>
+
+
+<header>
+  <div class="container">
+  <div class="header-left">
+    <img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/6432837/picture_pc_9a06a019fe451a6c54a064d465d927c5.jpg" alt="">
+  </div>
+  <div class="header-right">
+    <p>TEL 00-0000-0000</p>
+    <p>(受付時間)　平日　9:00~17:00</p>
+  </div>
+</div>
+</header>
+
+<div class="main">
+  <h1>キャッチコピー</h1>
+  <img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/6432841/picture_pc_e9cd48501e8ad5f03a13bfefcf9e1f19.jpg" alt="">
+    <div class="list">
+      <ul>
+        <li>1.テキストテキストテキスト</li>
+        <li>2.テキストテキストテキスト</li>
+<li>3.テキストテキストテキスト</li>
+      </ul>
+    </div>
+</div>
+
+   <div class="main-contents">
+
+     <img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/6432843/picture_pc_0c274de1b76f4063c7ce088be3b57004.jpg" alt="">
+      <h2>1.テキストテキストテキストテキスト</h2>
+      <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
+   </div>
+
+   <div class="two">
+     <img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/6432845/picture_pc_3d21e88b8ee49951e3c0931173a8f8ed.jpg" alt="">
+      <h2>1.テキストテキストテキストテキスト</h2>
+      <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
+   </div>
+
+   <div class="three">
+     <img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/6432848/picture_pc_c61a50ca0b2335d65a46645b73a2a480.jpg
+
+
+     " alt="">
+      <h2>1.テキストテキストテキストテキスト</h2>
+      <p>テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
+   </div>
+<div class="contact">
+<p>TEL 00-0000-0000</p>
+<p class="time">(受付時間 平日 9:00~17:00)</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<footer></footer>
+
+
+
+
+
+
+ </body>
+</html>

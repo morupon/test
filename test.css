@@ -1,0 +1,91 @@
+
+ul {
+  list-style: none;
+}
+
+.list {
+  text-align: center;
+}
+
+.header {
+  width:800px;
+}
+
+
+.header-left {
+  float: left;
+}
+
+.header-right {
+  float: right;
+}
+
+ .main {
+  position: relative;
+}
+
+.main h1 {
+  position: absolute;
+ top: 230;
+ left: 490;
+}
+
+.list ul li {
+  display: inline-block;
+  padding: 5px;
+}
+
+.text1 {
+  background-color: gray;
+  height: 400;
+  width: 1200;
+}
+
+.text1 img {
+float: left;
+}
+
+.text2 {
+  background-color: gray;
+  height: 400;
+  width: 600;
+}
+
+.text3 {
+  background-color: gray;
+  height: 400;
+  width: 1200;
+}
+
+.text3 img {
+float: left;
+}
+
+
+
+
+
+
+
+.contact {
+  margin-top: 100px;
+  background-color: gray;
+  width: 800px;
+  height: 100px;
+  margin-bottom: 100;
+}
+
+.contact p {
+  margin: 0;
+  float: left;
+}
+
+.contact a {
+  width: 200;
+  height: 50;
+  background-color: red;
+  float: right;
+  color: white;
+  text-align: center;
+  float: right;
+}

@@ -1,0 +1,135 @@
+
+.header {
+ width: 1200px;
+ height: 100px;
+}
+
+.header-right {
+  float: right;
+  width: 500px;
+  margin-right: 100px;
+}
+
+.header-left {
+  float: left;
+  margin-left: 150px;
+  margin-top: 30px;
+}
+
+.header-right p {
+  float: left;
+}
+
+.conbtn {
+  margin-top: 20px;
+  margin-right: 50px;
+  float: right;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  background-color: red;
+  color: white;
+}
+
+
+ .main {
+  position: relative;
+  background-color: gray;
+  height: 550px;
+  width: 1200px;
+ }
+
+.main h1 {
+ position: absolute;
+ top: 230;
+ left: 490;
+ color: gray;
+}
+
+
+ul {
+  list-style: none;
+}
+
+.list {
+  width: 1200px;
+  text-align: center;
+}
+
+.list ul li {
+   width: 120px;
+  display: inline-block;
+  padding: 50px;
+ }
+
+
+.text1 {
+  background-color: gray;
+  height: 400;
+  width: 1200;
+}
+
+.text1 img {
+ float: left;
+ }
+
+.text2 {
+  background-color: gray;
+  height: 400;
+  width: 600;
+  float: left;
+}
+
+.text2 img {
+  float: right;
+}
+
+.text3 {
+  background-color: gray;
+  height: 400;
+  width: 1200;
+}
+
+.text3 img {
+ float: left;
+ }
+
+.contact {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 200px;
+  background-color: gray;
+  width: 800px;
+  height: 100px;
+}
+
+.ftext {
+  float: left;
+  padding-top: 15px;
+  padding-left: 100px;
+}
+
+.contact a {
+  text-align: center;
+  line-height: 50px;
+  margin-top: 25px;
+  width: 200;
+  height: 50;
+  background-color: red;
+  float: right;
+  color: white;
+  text-align: center;
+  float: right;
+  margin-right: 30px;
+}
+
+
+
+.ander {
+  width: 100%;
+  height: 70px;
+  background-color: gray;
+  padding-top: 10px;
+  padding-left: 100px;
+}
